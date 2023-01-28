@@ -15,7 +15,7 @@
   
 
   
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
 </head>
 
 <body class='page page-contact'>
@@ -151,31 +151,31 @@
       </p>
       <h5>10 минут пешком</h4>
       <p>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_01.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 1" height="100" src="/thumbnails/small/kak_doyti_spb_01.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_01.webp">
+          <img alt="Шаг 1" height="100" src="/contact/small/kak_doyti_spb_01.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_02.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 2" height="100" src="/thumbnails/small/kak_doyti_spb_02.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_02.webp">
+          <img alt="Шаг 2" height="100" src="/contact/small/kak_doyti_spb_02.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_03.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 3" height="100" src="/thumbnails/small/kak_doyti_spb_03.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_03.webp">
+          <img alt="Шаг 3" height="100" src="/contact/small/kak_doyti_spb_03.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_04.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 4" height="100" src="/thumbnails/small/kak_doyti_spb_04.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_04.webp">
+          <img alt="Шаг 4" height="100" src="/contact/small/kak_doyti_spb_04.webp" width="121" />
         </a>
       </p>
       <p>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_05.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 5" height="100" src="/thumbnails/small/kak_doyti_spb_05.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_05.webp">
+          <img alt="Шаг 5" height="100" src="/contact/small/kak_doyti_spb_05.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_06.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 6" height="100" src="/thumbnails/small/kak_doyti_spb_06.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_06.webp">
+          <img alt="Шаг 6" height="100" src="/contact/small/kak_doyti_spb_06.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_07.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 7" height="100" src="/thumbnails/small/kak_doyti_spb_07.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_07.webp">
+          <img alt="Шаг 7" height="100" src="/contact/small/kak_doyti_spb_07.webp" width="121" />
         </a>
-        <a class="highslide" href="/thumbnails/kak_doyti_spb_08.webp" onclick="return hs.expand(this)">
-          <img alt="Шаг 8" height="100" src="/thumbnails/small/kak_doyti_spb_08.webp" style="border-width: 0" width="121" />
+        <a data-fancybox="gallery" data-src="/contact/kak_doyti_spb_08.webp">
+          <img alt="Шаг 8" height="100" src="/contact/small/kak_doyti_spb_08.webp" width="121" />
         </a>
       </p>
     </div>
@@ -243,5 +243,12 @@
   
 
 
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+  <script>
+    
+    Fancybox.bind('[data-fancybox="gallery"]', {
+      infinite: false
+    });
+  </script>
 </body>
 </html>

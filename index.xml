@@ -1,53 +1,395 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Lesnorezka.ru</title>
-    <link>/</link>
-    <description>Recent content in Home on Lesnorezka.ru</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <title>Lessno</title>
+    <link>https://lesnorezka.ru/</link>
+    <description>Recent content on Lessno</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://lesnorezka.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Лазерная резка</title>
-      <link>/services/laser/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <title>404</title>
+      <link>https://lesnorezka.ru/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/laser/</guid>
-      <description>Если Вам нужна лазерная резка дёшево и быстро, то ознакомьтесь с материалами, которые подходят для резки на нашем оборудовании. Вы сможете выполнить лазерную резку недорого любого материала из этого списка.
-Лазерная резка и гравировка в короткие сроки! Бумага МДФ и ХДФ Поролон Кожа Полистирол Фанера Пенополистирол Ткань Картон Резина Изолон Пенопласт Двухслойный пластик Оргстекло и Акрил ПЭТ О Лазерной резке
-Резка бумаги Плотность Стоимость за метр до 100 г/м2 3 руб.</description>
+      <guid>https://lesnorezka.ru/404.html</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Бейджи и номерки</title>
-      <link>/services/badge/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <title>Контакты</title>
+      <link>https://lesnorezka.ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/badge/</guid>
-      <description>Гардеробные номерки и бейджики сотрудников на заказ
-Бейджи Гардеробные номерки Бейджи Бейджи для сотрудников – полезный атрибут, который располагает незнакомых людей к общению. Во время мероприятий они выполняют функцию визитных карточек и предоставляют информацию о своих владельцах.
-Кажется, что идея носить симпатичные таблички с корпоративной символикой родилась не так давно. Однако ей уже почти 150 лет, а первые бейджи для сотрудников появились в американском штате Иллинойс в 1869 году. Тогда изготовление бейджей осуществлялось с помощью агрегата, который спрессовывал бумагу и пластик.</description>
+      <guid>https://lesnorezka.ru/about/</guid>
+      <description> Наши контакты. </description>
     </item>
     
     <item>
-      <title>Таблички и шильды</title>
-      <link>/services/plate/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/plate/</guid>
-      <description>Гардеробные номерки и бейджики сотрудников на заказ
-Таблички Шильды Таблички Таблички из пластика – практичное решение, которое позволит вашей компании произвести достойное первое впечатление. Изготовление офисных табличек из пластика занимает от одного до двух дней: вы можете выбрать любой дизайн, размер и способ нанесения информации.
-Таблички из пластика обладают определенными преимуществами перед другими материалами. Основные плюсы: прочность, легкость, эстетичность и сжатые сроки выполнения заказа. К тому же, двухслойный пластик обладает широкой цветовой гаммой.</description>
+      <guid>https://lesnorezka.ru/panno-01/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Трафареты</title>
-      <link>/services/trafaret/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/trafaret/</guid>
-      <description>Любые трафареты по вашему заказу или на выбор из наших примеров
-Трафарет Трафарет цифр Трафарет А-Я Трафарет A-Z Трафарет для стен и пола Формат (мм) Толщина 0,5 мм Толщина 1 мм А0 (1190х890) - 1 500 руб. А1 (850х600) - 1 200 руб. А2 (600х420) - 1000 руб. А3 (420х300) - 700 руб. А4 (300х210) - 600 руб. А5 (210х150) - 500 руб. А6 (150х105) - 400 руб. Трафарет цифр Высота, мм.</description>
+      <guid>https://lesnorezka.ru/panno-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панно</title>
+      <link>https://lesnorezka.ru/panno-41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesnorezka.ru/panno-41/</guid>
+      <description></description>
     </item>
     
   </channel>
